@@ -2,6 +2,8 @@
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube)](https://youtu.be/LrrAVD8oEJE)
 [![TechMateBot - Demo Video](https://img.youtube.com/vi/LrrAVD8oEJE/0.jpg)](https://youtu.be/LrrAVD8oEJE)
 
+Medium : (https://medium.com/@zulfianarahmi4/techmate-chatbot-pertamaku-6ee692db7bd9)
+
 TechMateBot adalah chatbot interaktif berbasis Telegram yang membantu pemula memahami konsep Cloud Computing, DevOps, dan Data Analytics. Dengan bot ini, pengguna bisa memilih topik dan mendapatkan jawaban atas pertanyaan seputar teknologi secara instan.
 
 Username Telegram: @AskTechMateBot
